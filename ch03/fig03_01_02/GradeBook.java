@@ -1,3 +1,5 @@
+package ch03.fig03_01_02;
+
 // Fig. 3.1: GradeBook.java
 // Class declaration with one method.
 
