@@ -1,4 +1,6 @@
 # deitel_java_ch03
+<img width="602" alt="image" src="https://github.com/MikeMMattinson/deitel_java_ch03/assets/7810463/6ccc539c-82af-46aa-976b-848033413001">
+
 
 3.1 Introduction
 We introduced the basic terminology and concepts of object-oriented programming in
