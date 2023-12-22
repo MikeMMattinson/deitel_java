@@ -1,3 +1,5 @@
+package ch03.fig03_07_08;
+
 // Fig. 3.8: GradeBookTest.java
 // Creating and manipulating a GradeBook object.
 import java.util.Scanner; // program uses Scanner
